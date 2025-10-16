@@ -1,0 +1,7 @@
+{
+    "name": "cs vs69",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/639936/csvs369/refs/heads/main/plugins.json"
+    ]
+}
