@@ -10,7 +10,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "FanxAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/FanxAVProvider.cs3",
         "name": "FanxAVProvider"
