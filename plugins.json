@@ -1,8 +1,8 @@
 [
     {
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/9484/9484251.png",
         "apiVersion": 1,
-        "fileSize": 16864,
+        "fileSize": 12746,
         "status": 1,
         "authors": [
             "vs69"
@@ -10,7 +10,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "FanxAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/FanxAVProvider.cs3",
         "name": "FanxAVProvider"
