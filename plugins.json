@@ -18,7 +18,7 @@
     {
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/9484/9484251.png",
         "apiVersion": 1,
-        "fileSize": 12363,
+        "fileSize": 11181,
         "status": 1,
         "authors": [
             "vs69"
@@ -26,7 +26,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 4,
+        "version": 2,
         "internalName": "VlxxAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/VlxxAVProvider.cs3",
         "name": "VlxxAVProvider"
