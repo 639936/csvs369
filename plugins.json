@@ -26,7 +26,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "VlxxAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/VlxxAVProvider.cs3",
         "name": "VlxxAVProvider"
