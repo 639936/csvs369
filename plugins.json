@@ -34,7 +34,7 @@
     {
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/9484/9484251.png",
         "apiVersion": 1,
-        "fileSize": 17503,
+        "fileSize": 17438,
         "status": 1,
         "authors": [
             "vs69"
@@ -42,7 +42,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "JavhdAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/JavhdAVProvider.cs3",
         "name": "JavhdAVProvider"
