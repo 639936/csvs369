@@ -32,9 +32,9 @@
         "name": "VlxxAVProvider"
     },
     {
-        "iconUrl": "https://cdn-icons-png.flaticon.com/512/9484/9484251.png",
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=javhdz.baby",
         "apiVersion": 1,
-        "fileSize": 17438,
+        "fileSize": 17476,
         "status": 1,
         "authors": [
             "vs69"
@@ -42,15 +42,15 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "JavhdAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/JavhdAVProvider.cs3",
         "name": "JavhdAVProvider"
     },
     {
-        "iconUrl": "https://cdn-icons-png.flaticon.com/512/9484/9484251.png",
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=viet69.nu",
         "apiVersion": 1,
-        "fileSize": 19329,
+        "fileSize": 20405,
         "status": 1,
         "authors": [
             "vs69"
@@ -58,9 +58,9 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Viet69CLProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/Viet69CLProvider.cs3",
-        "name": "JavhdAVProvider"
+        "name": "Viet69CLProvider"
     }
 ]
