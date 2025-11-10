@@ -50,7 +50,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=viet69.nu",
         "apiVersion": 1,
-        "fileSize": 20405,
+        "fileSize": 22504,
         "status": 1,
         "authors": [
             "vs69"
@@ -58,7 +58,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "Viet69CLProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/Viet69CLProvider.cs3",
         "name": "Viet69CLProvider"
