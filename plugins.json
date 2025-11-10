@@ -46,5 +46,21 @@
         "internalName": "JavhdAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/JavhdAVProvider.cs3",
         "name": "JavhdAVProvider"
+    },
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/9484/9484251.png",
+        "apiVersion": 1,
+        "fileSize": 19329,
+        "status": 1,
+        "authors": [
+            "vs69"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "Viet69CLProvider",
+        "url": "https://raw.githubusercontent.com/639936/csvs369/main/Viet69CLProvider.cs3",
+        "name": "JavhdAVProvider"
     }
 ]
