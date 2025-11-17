@@ -18,7 +18,6 @@
     {
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/9484/9484251.png",
         "apiVersion": 1,
-        "fileSize": 17098,
         "status": 1,
         "authors": [
             "vs69"
@@ -26,7 +25,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "VlxxAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/VlxxAVProvider.cs3",
         "name": "VlxxAVProvider"
@@ -34,7 +33,6 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=javhdz.baby",
         "apiVersion": 1,
-        "fileSize": 17476,
         "status": 1,
         "authors": [
             "vs69"
@@ -42,7 +40,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "JavhdAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/JavhdAVProvider.cs3",
         "name": "JavhdAVProvider"
