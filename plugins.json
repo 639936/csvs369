@@ -10,7 +10,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "FanxAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/FanxAVProvider.cs3",
         "name": "FanxAVProvider"
@@ -25,7 +25,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "VlxxAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/VlxxAVProvider.cs3",
         "name": "VlxxAVProvider"
@@ -40,7 +40,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "JavhdAVProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/JavhdAVProvider.cs3",
         "name": "JavhdAVProvider"
@@ -56,7 +56,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "Viet69CLProvider",
         "url": "https://raw.githubusercontent.com/639936/csvs369/main/Viet69CLProvider.cs3",
         "name": "Viet69CLProvider"
